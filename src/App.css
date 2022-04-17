@@ -1,0 +1,58 @@
+.heading { 
+  font-size: 40px;
+  text-align: center;
+  font-family: Roboto;
+}
+.container{
+  height: 80vh;
+  width: 70vh;
+  padding-inline: 40px;
+  box-shadow: 2px 2px 12px 0 #787878;
+}
+.p1 {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.uid{
+  margin-top: 110px;
+}
+.date{
+  margin-top: 110px;
+}
+.time{
+  margin-top: 110px;
+  
+}
+.receipt{
+  display: flex;
+  justify-content: space-between;
+  
+  margin-top: 30px;
+}
+
+.tax{
+  margin-top: 30px;
+}
+.total{
+  margin-top: 30px;
+}
+.btn{
+ margin-left: 30px;
+ color: white;
+ background-color: purple;
+ border-radius: 100px;
+ cursor: pointer;
+ border: 1px solid black;
+ font-size: 20px; 
+ margin-top: 30px;
+ width: 90%;
+ 
+ }
+
+
+
+  
+
+
+
