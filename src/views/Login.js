@@ -19,7 +19,7 @@ function Login() {
           required
         />
         <button type="submit" className="submitBtn">
-          Submit
+          login
         </button>
       </form>
     </div>
